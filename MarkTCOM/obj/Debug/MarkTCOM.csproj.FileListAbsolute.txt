@@ -1,0 +1,9 @@
+C:\Users\SkyReX\Documents\Projects\AutoTrading\MarkTCOM\MarkTCOM\bin\Debug\MarkTCOM.exe.config
+C:\Users\SkyReX\Documents\Projects\AutoTrading\MarkTCOM\MarkTCOM\obj\Debug\MarkTCOM.csprojResolveAssemblyReference.cache
+C:\Users\SkyReX\Documents\Projects\AutoTrading\MarkTCOM\MarkTCOM\obj\Debug\Interop.SmartCOM3Lib.dll
+C:\Users\SkyReX\Documents\Projects\AutoTrading\MarkTCOM\MarkTCOM\obj\Debug\MarkTCOM.csproj.ResolveComReference.cache
+C:\Users\SkyReX\Documents\Projects\AutoTrading\MarkTCOM\MarkTCOM\bin\Debug\MarkTCOM.exe
+C:\Users\SkyReX\Documents\Projects\AutoTrading\MarkTCOM\MarkTCOM\bin\Debug\MarkTCOM.pdb
+C:\Users\SkyReX\Documents\Projects\AutoTrading\MarkTCOM\MarkTCOM\bin\Debug\Interop.SmartCOM3Lib.dll
+C:\Users\SkyReX\Documents\Projects\AutoTrading\MarkTCOM\MarkTCOM\obj\Debug\MarkTCOM.exe
+C:\Users\SkyReX\Documents\Projects\AutoTrading\MarkTCOM\MarkTCOM\obj\Debug\MarkTCOM.pdb
